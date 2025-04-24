@@ -16,5 +16,5 @@ Aurora uses Apple’s official **In-App Purchase (IAP)** system for all payments
 The app’s core functionality **does not require an internet connection**. Web wallpapers may use network access, but this is under your full control.
 
 ### 5. Contact
-If you have any questions, feel free to contact us at: \[Your contact email]
+If you have any questions, feel free to contact us at: \[maoyoushu@gmail.com]
 
