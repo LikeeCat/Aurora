@@ -1,0 +1,2 @@
+# Aurora
+macOS Dynamic Wallpaper
